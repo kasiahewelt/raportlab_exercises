@@ -1,0 +1,153 @@
+1617704561235	geckodriver	INFO	Listening on 127.0.0.1:55836
+1617704564301	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADRIAN~1.KUB\\AppData\\Local\\Temp\\rust_mozprofilembAS8c"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617704567957	Marionette	INFO	Listening on port 55846
+1617704568022	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617704700933	Marionette	INFO	Stopped listening on port 55846
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622616624273	geckodriver	INFO	Listening on 127.0.0.1:63139
+1622616627263	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADRIAN~1.KUB\\AppData\\Local\\Temp\\rust_mozprofilexZZdO9"
+1622616627797	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622616630087	Marionette	INFO	Listening on port 63150
+1622616630452	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://nofluffjobs.com/pl/jobs?criteria=data%20analyst&page=1 line 14663 > injectedScript, line 1: ReferenceError: $ is not defined
+JavaScript error: https://nofluffjobs.com/pl/jobs?criteria=data%20analyst&page=2 line 14663 > injectedScript, line 1: ReferenceError: $ is not defined
+JavaScript error: https://nofluffjobs.com/pl/jobs?criteria=data%20analyst&page=3 line 14663 > injectedScript, line 1: ReferenceError: $ is not defined
+1622616654586	Marionette	INFO	Stopped listening on port 63150
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622616662895	geckodriver	INFO	Listening on 127.0.0.1:63341
+1622616665958	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADRIAN~1.KUB\\AppData\\Local\\Temp\\rust_mozprofilejeDjOv"
+1622616666341	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622616668855	Marionette	INFO	Listening on port 63351
+1622616669145	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://nofluffjobs.com/pl/jobs?criteria=data%20analyst&page=1 line 14663 > injectedScript, line 1: ReferenceError: $ is not defined
+JavaScript error: https://nofluffjobs.com/pl/jobs?criteria=data%20analyst&page=2 line 14663 > injectedScript, line 1: ReferenceError: $ is not defined
+JavaScript error: https://nofluffjobs.com/pl/jobs?criteria=data%20analyst&page=3 line 14663 > injectedScript, line 1: ReferenceError: $ is not defined
+JavaScript error: https://nofluffjobs.com/pl/jobs?criteria=data%20scientist&page=1 line 14663 > injectedScript, line 1: ReferenceError: $ is not defined
+JavaScript error: https://nofluffjobs.com/pl/jobs?criteria=data%20engineer&page=1 line 14663 > injectedScript, line 1: ReferenceError: $ is not defined
+JavaScript error: https://nofluffjobs.com/pl/jobs?criteria=data%20engineer&page=2 line 14663 > injectedScript, line 1: ReferenceError: $ is not defined
+JavaScript error: https://nofluffjobs.com/pl/jobs?criteria=data%20engineer&page=3 line 14663 > injectedScript, line 1: ReferenceError: $ is not defined
+JavaScript error: https://nofluffjobs.com/pl/jobs?criteria=data%20engineer&page=4 line 14663 > injectedScript, line 1: ReferenceError: $ is not defined
+JavaScript error: https://nofluffjobs.com/pl/jobs?criteria=data%20engineer&page=5 line 14663 > injectedScript, line 1: ReferenceError: $ is not defined
+JavaScript error: https://nofluffjobs.com/pl/jobs?criteria=data%20engineer&page=6 line 14663 > injectedScript, line 1: ReferenceError: $ is not defined
+1622616744516	Marionette	INFO	Stopped listening on port 63351
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622616989394	geckodriver	INFO	Listening on 127.0.0.1:62265
+1622616992375	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADRIAN~1.KUB\\AppData\\Local\\Temp\\rust_mozprofilexLc0Iv"
+1622616992799	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622616995554	Marionette	INFO	Listening on port 62279
+1622616995599	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://nofluffjobs.com/pl/jobs?criteria=data%20analyst&page=1 line 14663 > injectedScript, line 1: ReferenceError: $ is not defined
+JavaScript error: https://nofluffjobs.com/pl/jobs?criteria=data%20analyst&page=2 line 14663 > injectedScript, line 1: ReferenceError: $ is not defined
+JavaScript error: https://nofluffjobs.com/pl/jobs?criteria=data%20analyst&page=3 line 14663 > injectedScript, line 1: ReferenceError: $ is not defined
+JavaScript error: https://nofluffjobs.com/pl/jobs?criteria=data%20scientist&page=1 line 14663 > injectedScript, line 1: ReferenceError: $ is not defined
+JavaScript error: https://nofluffjobs.com/pl/jobs?criteria=data%20engineer&page=1 line 14663 > injectedScript, line 1: ReferenceError: $ is not defined
+JavaScript error: https://nofluffjobs.com/pl/jobs?criteria=data%20engineer&page=2 line 14663 > injectedScript, line 1: ReferenceError: $ is not defined
+JavaScript error: https://nofluffjobs.com/pl/jobs?criteria=data%20engineer&page=3 line 14663 > injectedScript, line 1: ReferenceError: $ is not defined
+JavaScript error: https://nofluffjobs.com/pl/jobs?criteria=data%20engineer&page=4 line 14663 > injectedScript, line 1: ReferenceError: $ is not defined
+JavaScript error: https://nofluffjobs.com/pl/jobs?criteria=data%20engineer&page=5 line 14663 > injectedScript, line 1: ReferenceError: $ is not defined
+JavaScript error: https://nofluffjobs.com/pl/jobs?criteria=data%20engineer&page=6 line 14663 > injectedScript, line 1: ReferenceError: $ is not defined
+1622617087393	Marionette	INFO	Stopped listening on port 62279
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625728246940	geckodriver	INFO	Listening on 127.0.0.1:49271
+1625728249894	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADRIAN~1.KUB\\AppData\\Local\\Temp\\rust_mozprofileSp3GfS"
+1625728250394	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adrian.kuboszek\\AppData\\Local\\Temp\\rust_mozprofileSp3GfS\\search.json.mozlz4", (void 0)))
+1625728252765	Marionette	INFO	Listening on port 49434
+1625728253125	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://nofluffjobs.com/pl/jobs?criteria=data%20analyst&page=1 line 14791 > injectedScript, line 1: ReferenceError: $ is not defined
+JavaScript error: https://static.hsappstatic.net/conversations-visitor-ui/static-1.11471/bundles/visitor.js, line 1: Error: Loading chunk i18n-data-data-locales-pl failed.
+(error: https://static.hsappstatic.net/conversations-visitor-ui/static-1.11456/i18n-data-data-locales-pl.js)
+JavaScript error: https://static.hsappstatic.net/conversations-visitor-ui/static-1.11471/bundles/visitor.js, line 1: Error: Loading chunk I18n-lang-pl failed.
+(error: https://static.hsappstatic.net/conversations-visitor-ui/static-1.11456/I18n-lang-pl.js)
+JavaScript error: https://static.hsappstatic.net/conversations-visitor-ui/static-1.11471/bundles/visitor.js, line 1: Error: Loading chunk conversations-visitor-ui-lang-pl failed.
+(error: https://static.hsappstatic.net/conversations-visitor-ui/static-1.11456/conversations-visitor-ui-lang-pl.js)
+JavaScript error: https://nofluffjobs.com/pl/jobs?criteria=data%20analyst&page=2 line 14791 > injectedScript, line 1: ReferenceError: $ is not defined
+JavaScript error: https://nofluffjobs.com/pl/jobs?criteria=data%20analyst&page=3 line 14791 > injectedScript, line 1: ReferenceError: $ is not defined
+1625728333763	Marionette	INFO	Stopped listening on port 49434
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625728336157	geckodriver	INFO	Listening on 127.0.0.1:49564
+1625728339198	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADRIAN~1.KUB\\AppData\\Local\\Temp\\rust_mozprofileGOL5LC"
+1625728339580	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adrian.kuboszek\\AppData\\Local\\Temp\\rust_mozprofileGOL5LC\\search.json.mozlz4", (void 0)))
+1625728341928	Marionette	INFO	Listening on port 49573
+1625728342400	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://nofluffjobs.com/pl/jobs?criteria=data%20analyst&page=1 line 14791 > injectedScript, line 1: ReferenceError: $ is not defined
+JavaScript error: https://nofluffjobs.com/pl/jobs line 14791 > injectedScript, line 1: ReferenceError: $ is not defined
+1625728603443	Marionette	INFO	Stopped listening on port 49573
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADRIAN~1.KUB\\AppData\\Local\\Temp\\rust_mozprofileKD6gPj"
+1625728554791	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adrian.kuboszek\\AppData\\Local\\Temp\\rust_mozprofileKD6gPj\\search.json.mozlz4", (void 0)))
+1625728557122	Marionette	INFO	Listening on port 49833
+1625728557627	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://nofluffjobs.com/pl/jobs/data%20analyst&page line 14791 > injectedScript, line 1: ReferenceError: $ is not defined
+JavaScript error: https://nofluffjobs.com/pl/jobs/data%20analyst&page line 14791 > injectedScript, line 1: ReferenceError: $ is not defined
+1625728602846	Marionette	INFO	Stopped listening on port 49833
+1625728604996	geckodriver	INFO	Listening on 127.0.0.1:49995
+1625728608011	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADRIAN~1.KUB\\AppData\\Local\\Temp\\rust_mozprofile4X0849"
+1625728608362	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adrian.kuboszek\\AppData\\Local\\Temp\\rust_mozprofile4X0849\\search.json.mozlz4", (void 0)))
+1625728610523	Marionette	INFO	Listening on port 50064
+1625728610675	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://nofluffjobs.com/pl/jobs?criteria=keyword%3D%22data%20analyst%22&page=1 line 14791 > injectedScript, line 1: ReferenceError: $ is not defined
+JavaScript error: https://nofluffjobs.com/pl/jobs?criteria=keyword%3D%22data%20analyst%22&page=2 line 14791 > injectedScript, line 1: ReferenceError: $ is not defined
+JavaScript error: https://nofluffjobs.com/pl/jobs?criteria=keyword%3D%22data%20analyst%22&page=3 line 14791 > injectedScript, line 1: ReferenceError: $ is not defined
+JavaScript error: https://nofluffjobs.com/pl/jobs?criteria=keyword%3D%22data%20analyst%22&page=4 line 14791 > injectedScript, line 1: ReferenceError: $ is not defined
+1625728700295	Marionette	INFO	Stopped listening on port 50064
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADRIAN~1.KUB\\AppData\\Local\\Temp\\rust_mozprofileU8rBER"
+1625728694669	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adrian.kuboszek\\AppData\\Local\\Temp\\rust_mozprofileU8rBER\\search.json.mozlz4", (void 0)))
+1625728697618	Marionette	INFO	Listening on port 50221
+1625728697940	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://nofluffjobs.com/pl/jobs?criteria=keyword%3D%22data%20analyst%22&page=1 line 14791 > injectedScript, line 1: ReferenceError: $ is not defined
+JavaScript error: https://nofluffjobs.com/pl/jobs?criteria=keyword%3D%22data%20scientist%22&page=1 line 14791 > injectedScript, line 1: ReferenceError: $ is not defined
+1625728715292	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[Child 11168, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+[Child 11168, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+1625728717295	Marionette	INFO	Stopped listening on port 50221
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625728726424	geckodriver	INFO	Listening on 127.0.0.1:50361
+1625728729450	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADRIAN~1.KUB\\AppData\\Local\\Temp\\rust_mozprofile4kv8bM"
+1625728729833	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adrian.kuboszek\\AppData\\Local\\Temp\\rust_mozprofile4kv8bM\\search.json.mozlz4", (void 0)))
+1625728732026	Marionette	INFO	Listening on port 50374
+1625728732124	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://nofluffjobs.com/pl/jobs?criteria=keyword%3D%22data%20analyst%22&page=1 line 14791 > injectedScript, line 1: ReferenceError: $ is not defined
+JavaScript error: https://nofluffjobs.com/pl/jobs?criteria=keyword%3D%22data%20scientist%22&page=1 line 14791 > injectedScript, line 1: ReferenceError: $ is not defined
+JavaScript error: https://nofluffjobs.com/pl/jobs?criteria=keyword%3D%22data%20engineer%22&page=1 line 14791 > injectedScript, line 1: ReferenceError: $ is not defined
+1625728764693	Marionette	INFO	Stopped listening on port 50374
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626736074288	geckodriver	INFO	Listening on 127.0.0.1:58568
+1626736077318	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADRIAN~1.KUB\\AppData\\Local\\Temp\\rust_mozprofilePvlcDm"
+1626736077782	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adrian.kuboszek\\AppData\\Local\\Temp\\rust_mozprofilePvlcDm\\search.json.mozlz4", (void 0)))
+1626736080289	Marionette	INFO	Listening on port 58635
+1626736080548	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 27076, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+JavaScript error: https://nofluffjobs.com/pl/jobs?criteria=keyword%3D%22data%20analyst%22&page=1 line 367 > injectedScript, line 1: ReferenceError: $ is not defined
+JavaScript error: https://nofluffjobs.com/pl/jobs?criteria=keyword%3D%22data%20scientist%22&page=1 line 367 > injectedScript, line 1: ReferenceError: $ is not defined
+JavaScript error: https://nofluffjobs.com/pl/jobs?criteria=keyword%3D%22data%20engineer%22&page=1 line 367 > injectedScript, line 1: ReferenceError: $ is not defined
+1626736107193	Marionette	INFO	Stopped listening on port 58635
